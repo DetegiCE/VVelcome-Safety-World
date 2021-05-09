@@ -8,6 +8,14 @@ Special Thanks to [PngWnA](https://github.com/PngWnA/FREE_GRADE)
 
 현업 종사자는 쓰지 마세요
 
+## Comment
+
+대부분(95%)은 가능하나, 일부 불가능한 강의가 몇 개 있습니다.
+
+따라서 본인이 이수해야 하는 강의보다 1~2개 더 넣어서 돌리시기 바랍니다.
+
+자동 이수 안된 과목에 대해서는 "취소하기" 버튼으로 취소할 수 있습니다.
+
 ## 사용법
 
 ***PLEASE READ THE MANUALS!!!!!!!!***
