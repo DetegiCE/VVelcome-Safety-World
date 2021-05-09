@@ -21,14 +21,20 @@ Special Thanks to [PngWnA](https://github.com/PngWnA/FREE_GRADE)
 ***PLEASE READ THE MANUALS!!!!!!!!***
 
 0. Python을 설치한다.
+
 1. Chrome을 90.0 버전으로 업데이트 한다.
 > chrome://version을 확인했을 때 90.0.~~~이 나오면 성공
+
 2. 이 레포지토리를 git으로 clone 또는 [download](https://github.com/DetegiCE/VVelcome-Safety-World/archive/refs/heads/main.zip) 한다
+
 3. 터미널을 이용하여 다운로드한 폴더로 접근한다.
+
 4. 다음과 같이 라이브러리를 설치한다.
+
 `pip install -r requirements.txt` OR `pip3 install -r requirements.txt`
 
 5. 다음 명령어를 이용하여 프로그램을 실행하여 포털 ID, PW, 운영체제를 입력한다.
+
 `python3 ./main.py` OR `python ./main.py`
 
 ```
