@@ -20,6 +20,8 @@ Special Thanks to [PngWnA](https://github.com/PngWnA/FREE_GRADE)
 
 ***PLEASE READ THE MANUALS!!!!!!!!***
 
+***실행 중에는 절대로 건드리지 마세요!!!!!***
+
 0. Python을 설치한다.
 
 1. Chrome을 90.0 버전으로 업데이트 한다.
